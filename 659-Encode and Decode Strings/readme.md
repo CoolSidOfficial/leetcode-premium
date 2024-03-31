@@ -17,6 +17,6 @@ One possible encode method is: "lint:;code:;love:;you"
 ### Example2
 `
 Input: ["we", "say", ":", "yes"]
-Output: ["we", "say", ":", "yes"]`
+Output: ["we", "say", ":", "yes"]
 Explanation:
-One possible encode method is: "we:;say:;:::;yes"
+One possible encode method is: "we:;say:;:::;yes"`
