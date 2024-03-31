@@ -1,6 +1,7 @@
 #659 · Encode and Decode Strings
-[Lintcode Link]("https://www.lintcode.com/problem/659/")
-[leetcode premium link]("https://leetcode.com/problems/encode-and-decode-strings/")
+
+[Lintcode Link](https://www.lintcode.com/problem/659/)
+[leetcode premium link](https://leetcode.com/problems/encode-and-decode-strings/)
 
 
 ###Description
